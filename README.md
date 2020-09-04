@@ -1,2 +1,1 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
+# OpenRolePlay
