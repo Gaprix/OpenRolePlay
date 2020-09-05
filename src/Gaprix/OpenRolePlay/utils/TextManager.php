@@ -2,7 +2,6 @@
 
 namespace Gaprix\OpenRolePlay\utils;
 
-use pocketmine\utils\Config;
 use Gaprix\OpenRolePlay\OpenRolePlay;
 
 class TextManager{
