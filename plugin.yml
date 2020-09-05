@@ -1,0 +1,6 @@
+name: OpenRolePlay
+main: Gaprix\OpenRolePlay\OpenRolePlay
+api: 3.15.1
+author: Gaprix
+version: 1.0
+website: https://github.com/Gaprix
