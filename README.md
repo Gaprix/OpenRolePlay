@@ -1,5 +1,5 @@
+<img src="https://xn--e1ajfn.xn--p1ai/openroleplay.png"></img><br>
 ![GitHub contributors](https://img.shields.io/github/contributors/Gaprix/OpenRolePlay)
-# OpenRolePlay
 ## Цель проекта
 Создать плагин, который по максимуму упростит разработку сервера тематики RolePlay
 ## Технические требования
